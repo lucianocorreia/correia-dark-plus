@@ -2,6 +2,7 @@
     "name": "correia-dark-plus",
     "displayName": "Correia Dark Plus",
     "description": "Correia Dark Theme",
+    "icon": "images/logo_correia.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.68.0"
@@ -9,6 +10,15 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "Correia",
+        "Next",
+        "Github"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianocorreia/correia-dark-plus"
+    },
     "contributes": {
         "themes": [
             {
