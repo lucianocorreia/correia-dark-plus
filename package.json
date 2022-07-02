@@ -1,0 +1,21 @@
+{
+    "name": "correia-dark-plus",
+    "displayName": "Correia Dark Plus",
+    "description": "Correia Dark Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Correia Dark Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Dark Plus-color-theme.json"
+            }
+        ]
+    }
+}
