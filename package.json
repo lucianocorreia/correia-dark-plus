@@ -2,6 +2,7 @@
     "name": "correia-dark-plus",
     "displayName": "Correia Dark Plus",
     "description": "Correia Dark Theme",
+    "publisher": "CorreiaDark",
     "icon": "images/logo_correia.png",
     "version": "1.0.0",
     "engines": {
