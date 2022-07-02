@@ -4,7 +4,7 @@
     "description": "Correia Dark Theme",
     "publisher": "CorreiaDark",
     "icon": "images/logo_correia.png",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "engines": {
         "vscode": "^1.68.0"
     },
